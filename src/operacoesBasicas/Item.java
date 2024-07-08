@@ -1,4 +1,4 @@
-package operaçoesBasicas;
+package operacoesBasicas;
 
 public class Item {
     private String nome ;

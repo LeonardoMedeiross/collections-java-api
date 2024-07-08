@@ -1,4 +1,4 @@
-/*package operaçoesBasicas;
+package operacoesBasicas;
 
 public class Tarefa {
     //atributo
@@ -16,4 +16,4 @@ public class Tarefa {
     public String toString() {
         return descricao;
     }
-}*/
+}
