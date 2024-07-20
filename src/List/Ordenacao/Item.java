@@ -1,4 +1,4 @@
-package operacoesBasicas;
+package List.Ordenacao;
 
 public class Item {
     private String nome ;

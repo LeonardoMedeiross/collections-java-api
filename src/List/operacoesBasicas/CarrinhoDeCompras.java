@@ -1,4 +1,6 @@
-package operacoesBasicas;
+package List.operacoesBasicas;
+
+import List.Ordenacao.Item;
 
 import java.util.ArrayList;
 import java.util.List;
